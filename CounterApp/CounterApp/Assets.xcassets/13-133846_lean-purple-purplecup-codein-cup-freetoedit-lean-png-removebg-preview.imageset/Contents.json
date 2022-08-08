@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "13-133846_lean-purple-purplecup-codein-cup-freetoedit-lean-png-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
