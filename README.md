@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sydneytsai
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning C and RISC V
+- 🌱 I’m currently learning C and RISC-V Assembly Language
 - 💞️ I’m currently working on an app for the Chabot Space and Science Center and the Berkeley Mobile App.
 - 📫 How to reach me: sydneyctsai@gmail.com
